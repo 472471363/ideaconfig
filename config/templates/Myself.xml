@@ -1,0 +1,8 @@
+<templateSet group="Myself">
+  <template name="wl" value="while($VAR0$){&#10;    System.out.println(&quot;-----while循环开始----&quot;);&#10;    $END$&#10;}" description="while 循环" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

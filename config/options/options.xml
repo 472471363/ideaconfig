@@ -1,0 +1,47 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="installed.kotlin.plugin.version" value="1.0.5-release-IJ2016.3-1" />
+    <property name="android-component-compatibility-check" value="1499822409134" />
+    <property name="project.wizard.group" value="spring" />
+    <property name="ideavim.statistics.timestamp" value="1497493931301" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="file.chooser.recent.files" value="C:/Tomcat/apache-tomcat-7.0.8/lib&#10;C:/jdk1.7.0_5_64/jdk1.7.0_5_64&#10;D:/ideaProject/webDemo/webDemo/web/WEB-INF/lib&#10;D:/jrebel.jar&#10;D:/ideaProject/GitHub/SpringMVCDemo/web/WEB-INF/classes&#10;D:/ideaProject/GitHub/spring-framework/build.gradle&#10;D:/ideaProject/GitHub/spring-framework&#10;C:/jdk1.8.0_64&#10;D:/gradle-4.0&#10;D:/ideaProject/GitHub/spring-framework/gradle/ide.gradle&#10;D:/ideaProject&#10;D:/ideaProject/GitHub/spring-framework/gradle&#10;D:/ideaProject/GitHub/spring-framework/lib&#10;D:/nanrui/资料/接口组/WebServer/WebRoot/classes&#10;C:/Tomcat/apache-tomcat-7.0.8&#10;D:/nanrui/资料/接口组/WebServer/WebRoot/WEB-INF/lib&#10;D:/nanrui/资料/接口组/WebServer/build&#10;D:/nanrui/资料/接口组/WebServer/WebRoot&#10;D:/nanrui/资料/接口组/WebServer/WebRoot/WEB-INF/web.xml&#10;D:/nanrui/资料/接口组/WebServer&#10;C:/Tomcat/apache-tomcat-8.5.13&#10;D:/nanrui/idea/PortalV3.0_zd&#10;D:/nanrui/idea/PortalV3.0_zd/WEB-INF/classes&#10;D:/nanrui/idea/PortalV3.0_zd/WEB-INF&#10;D:/nanrui/idea/PortalV3.0_zd/WEB-INF/web.xml&#10;C:/Tomcat/apache-tomcat-8.5.13/lib&#10;D:/nanrui/idea/PortalV3.0_zd/WEB-INF/lib&#10;C:/weblogic&#10;D:/ideaProject/JsTest/WebRoot/WEB-INF/classes&#10;D:/ideaProject/JspRun!_6.0.0_Source_UTF8/ideaSpringMVC/lib" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="lastTip" value="60" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="last.imported.location" value="D:/ideaProject/GitHub/spring-framework/build.gradle" />
+    <property name="create.project.preferred.importer" value="Gradle" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="PLUGIN_FILTER" value="Lombok&#10;plantuml&#10;planuml&#10;.ingore&#10;jre" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="Arquillian Deployment Method" />
+    <property name="FileTemplates.CurrentTab" value="Code" />
+    <property name="KEYMAP" value="bas" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.10934937" />
+    <property name="SpringBeansModulesPanel[0]" value="0.10934937" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Wrapping and Braces" />
+    <property name="fileTypeChangedCounter" value="10" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="typescript.merge.auto.import" value="true" />
+    <property name="typescript.use.config.auto.import" value="false" />
+    <property name="typescript.use.directory.import.node" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="javaee.appServer.lastUsedServer" value="Tomcat 8.5.13" />
+    <property name="javaee.appServer.lastUsedIntegration" value="Tomcat Server" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Desktop/.jrebel/.intellij_temp" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="map.external.resource.selected.tab" value="1" />
+    <property name="LAST_INJECTED_LANGUAGE" value="XML" />
+    <property name="settings.code.style.selected.tab.JSP" value="Tabs and Indents" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
+    <property name="GradleModuleWizard.inheritGroupId" value="true" />
+    <property name="GradleModuleWizard.inheritVersion" value="true" />
+    <property name="last.used.gradle.home" value="D:/gradle-4.0" />
+  </component>
+</application>

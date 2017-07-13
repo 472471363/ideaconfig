@@ -1,0 +1,10 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="java.io.File.File(s)" />
+        <added pattern="com.helloworld.Student.Student(name,sex,age)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
