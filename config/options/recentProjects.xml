@@ -2,161 +2,317 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="D:\nanrui\资料\接口组\WebServer" />
-        <option value="D:\ideaProject\webDemo" />
-        <option value="D:\ideaProject\GitHub\SpringMVCDemo" />
-        <option value="D:\ideaProject\JspRun!_6.0.0_Source_UTF8\ideaSpringMVC" />
-        <option value="D:\ideaProject\GitHub\spring-framework" />
-        <option value="D:\ideaProject\JspRun!_6.0.0_Source_UTF8\source" />
-        <option value="D:\ideaProject\JspRun!_6.0.0_Source_UTF8\ideaWebTest" />
-        <option value="D:\nanrui\idea\PortalV3.0_zd" />
-        <option value="D:\ideaProject\JsTest" />
-        <option value="D:\ideaProject\GitHub\ideaProjectDemo" />
-        <option value="D:\ideaProject\GitHub\test" />
+        <option value="D:/nanrui/WebServer" />
+        <option value="D:/ideaProject/webDemo" />
+        <option value="D:/ideaProject/mytest" />
+        <option value="D:/ideaProject/reflectTest" />
+        <option value="D:/ideaProject/StrategyPattern" />
+        <option value="D:/ideaProject/MediatorPattern" />
+        <option value="D:/ideaProject/ProxyPattern" />
+        <option value="D:/ideaProject/Java8Test" />
+        <option value="D:/ideaProject/DecoratorPatternBean" />
+        <option value="D:/ideaProject/DecoratorPattern" />
+        <option value="D:/nanrui/资料/接口组/WebServer" />
+        <option value="D:/GitHub/hibernate-orm" />
+        <option value="D:/ideaProject/AdapterPattern" />
+        <option value="D:/ideaProject/VisitorPatternDemo" />
+        <option value="D:/360极速浏览器下载/commons-dbutils-1.7-src" />
+        <option value="D:/nanrui/idea/PortalV3.0_zd" />
+        <option value="D:/ideaProject/GitHub/SpringMVCDemo" />
+        <option value="D:/ideaProject/GitHub/spring-framework" />
+        <option value="D:/ideaProject/JspRun!_6.0.0_Source_UTF8/ideaSpringMVC" />
+        <option value="D:/ideaProject/JspRun!_6.0.0_Source_UTF8/source" />
+        <option value="D:/ideaProject/JspRun!_6.0.0_Source_UTF8/ideaWebTest" />
+        <option value="D:/ideaProject/JsTest" />
+        <option value="D:/ideaProject/GitHub/ideaProjectDemo" />
+        <option value="D:/ideaProject/GitHub/test" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="D:\nanrui\资料\接口组\WebServer" />
+        <option value="D:/nanrui/WebServer" />
       </list>
     </option>
-    <option name="lastPath" value="D:\nanrui\资料\接口组\WebServer" />
+    <option name="lastPath" value="D:/nanrui/WebServer" />
     <option name="additionalInfo">
       <map>
-        <entry key="D:\ideaProject\GitHub\IdeaSpringMVC">
+        <entry key="D:/360极速浏览器下载/commons-dbutils-1.7-src">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3317.76" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1501828629776" />
+              <option name="buildTimestamp" value="1500115273596" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/GitHub/hibernate-orm">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3317.76" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1502695954199" />
+              <option name="buildTimestamp" value="1500115288543" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/ideaProject/AdapterPattern">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3317.76" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1502674658229" />
+              <option name="buildTimestamp" value="1500115288543" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/ideaProject/DecoratorPattern">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3317.76" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1502853099822" />
+              <option name="buildTimestamp" value="1500115296340" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/ideaProject/DecoratorPatternBean">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3317.76" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1502937314266" />
+              <option name="buildTimestamp" value="1500115296340" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/ideaProject/GitHub/IdeaSpringMVC">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-163.12024.16" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="C:\IntelliJ IDEA\bin" />
+              <option name="binFolder" value="C:/IntelliJ IDEA/bin" />
               <option name="projectOpenTimestamp" value="1499324717145" />
               <option name="buildTimestamp" value="1485857100902" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\ideaProject\GitHub\SpringMVCDemo">
+        <entry key="D:/ideaProject/GitHub/SpringMVCDemo">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-163.12024.16" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="C:\IntelliJ IDEA\bin" />
-              <option name="projectOpenTimestamp" value="1499399684735" />
-              <option name="buildTimestamp" value="1485857110667" />
+              <option name="binFolder" value="C:/IntelliJ IDEA/bin" />
+              <option name="projectOpenTimestamp" value="1500002551927" />
+              <option name="buildTimestamp" value="1485857100533" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\ideaProject\GitHub\ideaProjectDemo">
+        <entry key="D:/ideaProject/GitHub/ideaProjectDemo">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-163.12024.16" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="C:\IntelliJ IDEA\bin" />
+              <option name="binFolder" value="C:/IntelliJ IDEA/bin" />
               <option name="projectOpenTimestamp" value="1497926071167" />
               <option name="buildTimestamp" value="1485857125079" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\ideaProject\GitHub\spring-framework">
+        <entry key="D:/ideaProject/GitHub/spring-framework">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-163.12024.16" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="C:\IntelliJ IDEA\bin" />
-              <option name="projectOpenTimestamp" value="1499395493471" />
-              <option name="buildTimestamp" value="1485857110667" />
+              <option name="binFolder" value="C:/IntelliJ IDEA/bin" />
+              <option name="projectOpenTimestamp" value="1500002456956" />
+              <option name="buildTimestamp" value="1485857100533" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\ideaProject\GitHub\test">
+        <entry key="D:/ideaProject/GitHub/test">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-163.12024.16" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="C:\IntelliJ IDEA\bin" />
+              <option name="binFolder" value="C:/IntelliJ IDEA/bin" />
               <option name="projectOpenTimestamp" value="1497518587151" />
               <option name="buildTimestamp" value="1485857157175" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\ideaProject\JsTest">
+        <entry key="D:/ideaProject/Java8Test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3317.76" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1503021530152" />
+              <option name="buildTimestamp" value="1500115261036" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/ideaProject/JsTest">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-163.12024.16" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="C:\IntelliJ IDEA\bin" />
+              <option name="binFolder" value="C:/IntelliJ IDEA/bin" />
               <option name="projectOpenTimestamp" value="1498032674726" />
               <option name="buildTimestamp" value="1485857156750" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\ideaProject\JspRun!_6.0.0_Source_UTF8\ideaSpringMVC">
+        <entry key="D:/ideaProject/JspRun!_6.0.0_Source_UTF8/ideaSpringMVC">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-163.12024.16" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="C:\IntelliJ IDEA\bin" />
-              <option name="projectOpenTimestamp" value="1499397636283" />
-              <option name="buildTimestamp" value="1485857110667" />
+              <option name="binFolder" value="C:/IntelliJ IDEA/bin" />
+              <option name="projectOpenTimestamp" value="1500002155918" />
+              <option name="buildTimestamp" value="1485857100533" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\ideaProject\JspRun!_6.0.0_Source_UTF8\ideaWebTest">
+        <entry key="D:/ideaProject/JspRun!_6.0.0_Source_UTF8/ideaWebTest">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-163.12024.16" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="C:\IntelliJ IDEA\bin" />
+              <option name="binFolder" value="C:/IntelliJ IDEA/bin" />
               <option name="projectOpenTimestamp" value="1498650504377" />
               <option name="buildTimestamp" value="1485857114743" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\ideaProject\JspRun!_6.0.0_Source_UTF8\source">
+        <entry key="D:/ideaProject/JspRun!_6.0.0_Source_UTF8/source">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-163.12024.16" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="C:\IntelliJ IDEA\bin" />
+              <option name="binFolder" value="C:/IntelliJ IDEA/bin" />
               <option name="projectOpenTimestamp" value="1499161829811" />
               <option name="buildTimestamp" value="1485857109783" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\ideaProject\webDemo">
+        <entry key="D:/ideaProject/MediatorPattern">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-163.12024.16" />
+              <option name="build" value="IU-172.3317.76" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="C:\IntelliJ IDEA\bin" />
-              <option name="projectOpenTimestamp" value="1499915726335" />
-              <option name="buildTimestamp" value="1485857112598" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1503282524656" />
+              <option name="buildTimestamp" value="1500115303504" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\nanrui\idea\PortalV3.0_zd">
+        <entry key="D:/ideaProject/ProxyPattern">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-163.12024.16" />
+              <option name="build" value="IU-172.3317.76" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="C:\IntelliJ IDEA\bin" />
-              <option name="projectOpenTimestamp" value="1498649147124" />
-              <option name="buildTimestamp" value="1485857135445" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1503278811514" />
+              <option name="buildTimestamp" value="1500115303504" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\nanrui\资料\接口组\WebServer">
+        <entry key="D:/ideaProject/StrategyPattern">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3317.76" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1503298437026" />
+              <option name="buildTimestamp" value="1500115303504" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/ideaProject/VisitorPatternDemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3317.76" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1502434755142" />
+              <option name="buildTimestamp" value="1500115260719" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/ideaProject/mytest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3317.76" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1503480972331" />
+              <option name="buildTimestamp" value="1500115303504" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/ideaProject/reflectTest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3317.76" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1503301897988" />
+              <option name="buildTimestamp" value="1500115303504" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/ideaProject/webDemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3317.76" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1503565979964" />
+              <option name="buildTimestamp" value="1500115303504" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/nanrui/WebServer">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3317.76" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1503969020126" />
+              <option name="buildTimestamp" value="1500115313291" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/nanrui/idea/PortalV3.0_zd">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-163.12024.16" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="C:\IntelliJ IDEA\bin" />
-              <option name="projectOpenTimestamp" value="1499917367844" />
-              <option name="buildTimestamp" value="1485857112598" />
+              <option name="binFolder" value="C:/IntelliJ IDEA/bin" />
+              <option name="projectOpenTimestamp" value="1500024421704" />
+              <option name="buildTimestamp" value="1485857123329" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/nanrui/资料/接口组/WebServer">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3317.76" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1502853092300" />
+              <option name="buildTimestamp" value="1500115296340" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastProjectLocation" value="D:/ideaProject/GitHub" />
+    <option name="lastProjectLocation" value="D:/ideaProject" />
   </component>
 </application>

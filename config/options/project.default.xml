@@ -1,10 +1,13 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
+      <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
       <component name="GradleLocalSettings">
         <option name="modificationStamps">
           <map>
-            <entry key="D:/ideaProject/GitHub/spring-framework" value="2998615746438" />
+            <entry key="D:/ideaProject/GitHub/spring-framework" value="2999247974241" />
           </map>
         </option>
         <option name="externalProjectsViewState">
@@ -15,24 +18,18 @@
         <option name="PROJECT_PROFILE" />
         <version value="1.0" />
       </component>
-      <component name="ProjectRootManager" version="2" default="true" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.startup.StartupConfigurable" />
+        <property name="settings.editor.selected.configurable" value="File.Encoding" />
+        <property name="project.structure.last.edited" value="Project" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.20033112" />
       </component>
       <component name="RunManager">
-        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-          <module name="" />
-          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-          <option name="PROGRAM_PARAMETERS" />
-          <predefined_log_file id="idea.log" enabled="true" />
-          <method />
-        </configuration>
         <configuration default="true" type="Applet" factoryName="Applet">
           <option name="WIDTH" value="400" />
           <option name="HEIGHT" value="300" />
           <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
           <module />
-          <method />
         </configuration>
         <configuration default="true" type="Application" factoryName="Application">
           <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -47,7 +44,6 @@
           <option name="PASS_PARENT_ENVS" value="true" />
           <module name="" />
           <envs />
-          <method />
         </configuration>
         <configuration default="true" type="JUnit" factoryName="JUnit">
           <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -68,7 +64,12 @@
           </option>
           <envs />
           <patterns />
-          <method />
+        </configuration>
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+          <option name="PROGRAM_PARAMETERS" />
+          <predefined_log_file id="idea.log" enabled="true" />
         </configuration>
         <configuration default="true" type="Remote" factoryName="Remote">
           <option name="USE_SOCKET_TRANSPORT" value="true" />
@@ -76,7 +77,6 @@
           <option name="SHMEM_ADDRESS" value="javadebug" />
           <option name="HOST" value="localhost" />
           <option name="PORT" value="5005" />
-          <method />
         </configuration>
         <configuration default="true" type="TestNG" factoryName="TestNG">
           <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -104,11 +104,33 @@
           <envs />
           <properties />
           <listeners />
-          <method />
         </configuration>
       </component>
       <component name="masterDetails">
         <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.20033112" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.7</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.20033112" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
           <state key="ProjectJDKs.UI">
             <settings>
               <last-edited>1.6</last-edited>
@@ -116,6 +138,17 @@
                 <option name="proportions">
                   <list>
                     <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.20033112" />
                   </list>
                 </option>
               </splitter-proportions>
